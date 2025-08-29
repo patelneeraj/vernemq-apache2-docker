@@ -37,21 +37,17 @@ You are free to use, distribute, and modify this image as long as you comply wit
 
 ## Licenses & Attribution
 
-This Docker image and its components are licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-
+* This Docker image and its components are licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 * **VerneMQ 2.1.1** — Apache 2.0
   `LICENSE.txt` from VerneMQ is included in the image.
   [https://vernemq.com](https://vernemq.com)
-
 * **Erlang/OTP** — Apache 2.0
   Built from source. No separate NOTICE file is included.
   [https://www.erlang.org](https://www.erlang.org)
-
 * **kerl** — MIT License
   Used only as a build tool in the builder stage. Not present in the runtime image.
   [https://github.com/kerl/kerl](https://github.com/kerl/kerl)
-
-* **This Docker image** — Apache 2.0
+* This repository is licensed under the [Apache License 2.0](LICENSE).
 
 ---
 
